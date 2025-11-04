@@ -1,4 +1,4 @@
-## Hi there 👋 I am a 22yo full stack web developer from 01talent
+## Hi there 👋 I am a 22yo full stack dev from 01talent
 
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on Github
