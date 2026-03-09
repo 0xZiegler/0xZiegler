@@ -1,5 +1,5 @@
-<h2 style="color: #1E90FF; border-bottom: none;">## Hi, I'm 0xZiegler</h2>
-<h3 style="color: #6e7681">### Fullstack Developer</h3>
+<h2>## Hi, I'm 0xZiegler</h2>
+<h3>### Fullstack Developer</h3>
 
 **\-** I’m currently working on
 
@@ -12,7 +12,7 @@
 **\-** How to reach me
 
 
-<h3 style="color: #6e7681"> ### Stats </h3>
+<h3> ### Stats </h3>
 
 <div align="center">
    <a href="https://github.com/0xZiegler">
